@@ -1,0 +1,10 @@
+.container {
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+}
+
+.container__text {
+  text-align: center;
+  font-size: 25px;
+}
